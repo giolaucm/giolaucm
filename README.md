@@ -4,9 +4,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Giolau12&theme=radical" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Giolau12&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
 </div>
 
 <div style="display: inline_block; margin-top: 20px;"><br>
