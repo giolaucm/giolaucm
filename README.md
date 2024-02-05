@@ -1,4 +1,4 @@
-## Oiii eu sou a Giovanna Carvalho, jovem estudante de tecnologia!
+## Oie me chamo Giovanna, jovem estudante e desenvolvedora!
 
 <div style="display: inline_block; margin-top: 20px;"><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,5 +20,3 @@
   <a href="mailto:giovannamilena50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/giovanna-moraes-964a8a191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/Giolau12/Giolau12/blob/output/github-contribution-grid-snake.svg)
