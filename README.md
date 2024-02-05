@@ -1,6 +1,6 @@
 ## Oiii eu sou a Giovanna Carvalho, jovem estudante de tecnologia!
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: inline_block; margin-top: 20px;"><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Giolau12&theme=radical" />
   </a>
