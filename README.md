@@ -2,12 +2,12 @@
 
 <div style="display: inline_block; margin-top: 20px;"><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Giolau12&theme=radical" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=giolaucm&theme=radical" />
   </a>
 </div>
 
 <div style="display: inline_block; margin-top: 20px;"><br>
-  <img align="center" alt="Giolau12-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: invert(100%);"> <!-- Adicionado filtro de inversão -->
+  <img align="center" alt="giolaucm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: invert(100%);"> <!-- Adicionado filtro de inversão -->
   <img align="center" alt="Giolau12-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: invert(100%);">
   <img align="center" alt="Giolau12-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: invert(100%);">
   <img align="center" alt="Giolau12-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" style="filter: invert(100%);">
