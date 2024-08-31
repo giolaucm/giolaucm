@@ -11,6 +11,8 @@
   <img align="center" alt="Giolau12-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: invert(100%);">
   <img align="center" alt="Giolau12-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: invert(100%);">
   <img align="center" alt="Giolau12-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" style="filter: invert(100%);">
+  <img align="center" alt="Giolau12-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: invert(100%);">
+
 </div>
   
 ##
