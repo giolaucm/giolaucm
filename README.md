@@ -1,4 +1,4 @@
-## Oie me chamo Giovanna, jovem estudante e desenvolvedora!
+## Oie me chamo Giovanna, jovem estudante.
 
 <div style="display: inline_block; margin-top: 20px;"><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
